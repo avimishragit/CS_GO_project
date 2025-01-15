@@ -2,5 +2,7 @@ ipykernel
 numpy
 pandas
 matplotlib
+plotly
+plotly.express
 seaborn
 scikit-learn
